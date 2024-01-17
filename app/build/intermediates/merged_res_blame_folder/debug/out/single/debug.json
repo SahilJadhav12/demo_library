@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-merged_res-33:/drawable-hdpi_ic_action_play_over_video.png.flat",
+        "source": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-main-35:/drawable-hdpi/ic_action_play_over_video.png"
+    },
+    {
+        "merged": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-merged_res-33:/drawable-mdpi_ic_action_play_over_video.png.flat",
+        "source": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-main-35:/drawable-mdpi/ic_action_play_over_video.png"
+    },
+    {
+        "merged": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-merged_res-33:/drawable-xhdpi_ic_action_play_over_video.png.flat",
+        "source": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-main-35:/drawable-xhdpi/ic_action_play_over_video.png"
+    },
+    {
+        "merged": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-merged_res-33:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-main-35:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-merged_res-33:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-main-35:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-merged_res-33:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-main-35:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-merged_res-33:/layout_activity_my.xml.flat",
+        "source": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-main-35:/layout/activity_my.xml"
+    },
+    {
+        "merged": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-merged_res-33:/menu_my.xml.flat",
+        "source": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-main-35:/menu/my.xml"
+    },
+    {
+        "merged": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-merged_res-33:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-main-35:/drawable-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.google.ads.interactivemedia.v3.samples.videoplayerapp-mergeDebugResources-31:/values-ar-rXB/values-ar-rXB.xml",
+            "map": [
+                {
+                    "source": "/Users/jemishpatel/.gradle/caches/transforms-3/2e69ed02d2d504361ced0280c22bba6e/transformed/jetified-tv-ads-1.0.0-alpha02/res/values-ar-rXB/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,9",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "201,258,407,654",
+                        "endColumns": "56,148,75,81",
+                        "endOffsets": "257,406,482,735"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,116,269,349",
+                        "endColumns": "60,152,79,85",
+                        "endOffsets": "111,264,344,430"
+                    }
+                }
+            ]
+        }
+    ]
+}

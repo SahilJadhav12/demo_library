@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+dimen font_size
+drawable ic_action_play_over_video
+drawable ic_launcher
+id action_settings
+id container
+id logText
+id player_view
+layout activity_my
+menu my
+string action_settings
+string app_name
+string video_description
